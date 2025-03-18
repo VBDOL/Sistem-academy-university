@@ -1,6 +1,6 @@
 # Sistema Acadêmico para Universidade
 
-![Diagrama de Entidade-Relacionamento](diagram02.png)
+![Diagrama de Entidade-Relacionamento](diagrama02.JPG)
 
 ## Contexto do Projeto
 Este projeto consiste em criar um esquema conceitual para a gestão acadêmica de uma universidade, abrangendo alunos, professores, cursos e disciplinas.
